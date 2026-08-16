@@ -1,6 +1,5 @@
-# Mr-Bear.github.io
-
-## Evan Nagy
+# *Mr-Bear.github.io*
+## *Evan Nagy ePortfolio*
 
 ### project 1
 - [GitHub Repository](https://github.com/Mr-Bear121/SNHU)
